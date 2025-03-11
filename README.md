@@ -8,6 +8,7 @@
 # 💻 Tech Stack:
 ## Frontend
  <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind" />
+ 
 ## Backend
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,spring,java" />
 
