@@ -19,7 +19,6 @@
 <img src="https://skillicons.dev/icons?i=github,git,vercel" />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CO-dia&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CO-dia&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CO-dia&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
