@@ -21,12 +21,14 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=CO-dia&theme=radical&hide_border=true)<br/>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CO-Dia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=CO-dia&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CO-Dia&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rdiadama) 
